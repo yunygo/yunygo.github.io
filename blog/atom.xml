@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yunygo.github.io/blog</id>
-    <title>你好，我是Young Blog</title>
+    <title>Young 的博客 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yunygo.github.io/blog"/>
-    <subtitle>你好，我是Young Blog</subtitle>
+    <subtitle>Young 的博客 Blog</subtitle>
     <icon>https://yunygo.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
