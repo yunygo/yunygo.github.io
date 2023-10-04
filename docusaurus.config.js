@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "你好，我是Young",
+  title: "Young 的博客",
   tagline: "全栈工程师，爱技术，爱生活",
   favicon: "img/favicon.ico",
 
